@@ -5,7 +5,11 @@ A **light-weight** and simple **live** monitoring tool for **real-time monitorin
 
 ------
 
+## ScreenShot: ##
 
+![ScreenShot](https://github.com/saikatd/limon/blob/master/Dashboard ScreenShot.JPG)
+
+-------
 ## Dependancies: ##
 
 - RPM: ssh-pass -v1.0.5 (supplied with the app for convenience)
